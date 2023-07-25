@@ -1,6 +1,6 @@
 # CodeCafe
 
-Workroom Connect, Django tabanlı bir web sitesidir, burada kullanıcılar login ve register işlemleri gerçekleştirebilir, odalar oluşturabilir, bu odalarda sorular sorabilir ve güncel etkinlikleri takip edebilirler. Ayrıca, arama özelliği sayesinde istedikleri içeriklere kolayca ulaşabilirler.
+Workroom, Django tabanlı bir web sitesidir, burada kullanıcılar login ve register işlemleri gerçekleştirebilir, odalar oluşturabilir, bu odalarda sorular sorabilir ve güncel etkinlikleri takip edebilirler. Ayrıca, arama özelliği sayesinde istedikleri içeriklere kolayca ulaşabilirler.
 
 ## Özellikler
 
